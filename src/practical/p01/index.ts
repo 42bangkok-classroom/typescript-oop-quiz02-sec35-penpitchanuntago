@@ -10,8 +10,8 @@ const data : User1[] = await (await User).json();
 
 return data ;
 }
-export function getEdgePosts() {}
-{
- 
-  
-  }
+let data1 : string;
+export function getEdgePosts() {
+data1
+}
+getEdgePosts()
